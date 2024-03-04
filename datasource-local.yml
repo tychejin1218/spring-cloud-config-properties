@@ -1,0 +1,7 @@
+# LOCAL 환경 DataSource 설정
+spring:
+  datasource:
+    url: jdbc:h2:mem:local
+    driver-class-name: org.h2.Driver.local
+    username: username_local
+    password: password_local
