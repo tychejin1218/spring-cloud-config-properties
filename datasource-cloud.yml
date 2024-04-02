@@ -7,7 +7,7 @@ main:
       read-only: false
       username: sample
       # password: password1!
-      password: ENC(Mc7GDTyzk57XXU7hf+OTYl8n20zzViY8BIclFDIUN8vmuBGVNcRFVNOXlO3MONlH)
+      password: ENC(Mc7GDTyzk57XXU7hf+OTYl8n20zzViY8BIclFDIUN8vmuBGVNcRFVNOXlO3MONlH_TEST)
       poolName: postgresDbConnectionPool
       maximum-pool-size: 5
       minimum-idle: 5
