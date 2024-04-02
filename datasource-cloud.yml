@@ -3,11 +3,11 @@ main:
   datasource:
     single:
       driver-class-name: org.postgresql.Driver
-      jdbc-url: jdbc:postgresql://127.0.0.2:5432/sample
+      jdbc-url: jdbc:postgresql://127.0.0.1:5432/sample
       read-only: false
       username: sample
       # password: password1!
-      password: ENC(Mc7GDTyzk57XXU7hf+OTYl8n20zzViY8BIclFDIUN8vmuBGVNcRFVNOXlO3MONlH)
+      password: ENC(Mc7GDTyzk57XXU7hf+OTYl8n20zzViY8BIclFDIUN8vmuBGVNcRFVNOXlO3MONlH1)
       poolName: postgresDbConnectionPool
       maximum-pool-size: 5
       minimum-idle: 5
