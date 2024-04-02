@@ -3,7 +3,7 @@ main:
   datasource:
     single:
       driver-class-name: org.postgresql.Driver
-      jdbc-url: jdbc:postgresql://127.0.0.1:5432/sample
+      jdbc-url: jdbc:postgresql://127.0.0.2:5432/sample
       read-only: false
       username: sample
       # password: password1!
